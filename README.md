@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nguzm4n
 - 👀 I’m interested in Coding
-- 🌱 I’m currently studying Full Stack Developer
+- 🌱 I’m currently studying to become a Full Stack Developer in 4Geeks Academy
 - 💞️ I’m looking to collaborate on Coding Projects
 
 <!---
