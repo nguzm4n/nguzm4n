@@ -1,6 +1,6 @@
 
 # About Me:
-👋 I'm Nicolás Guzmán<br>💪 I'm Full Stack Developer <br>🌱 I'm currently working on personal projects <br>💭 Open to work with people <br>  Looking to Cooperate <br>
+💪 I'm Full Stack Developer <br>🌱 I'm currently working on personal projects <br>💭 Open to work with people <br>  Looking to Cooperate <br>
 
 
 
