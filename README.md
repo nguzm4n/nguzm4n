@@ -1,6 +1,6 @@
 
 # About Me:
-💪 I'm Full Stack Developer <br>🌱 I'm currently working <br>💭 Focused on provide scalable solutions 
+💪 I'm Full Stack Developer <br>🌱 I'm currently working <br>💭 Focused on provide scalable solutions <br> 🤓 Looking to cooperate
 
 
 
